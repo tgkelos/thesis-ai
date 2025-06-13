@@ -41,7 +41,6 @@ You can customize:
 
 The game is a deterministic, turn-based strategy game played on an 8×8 board. Each player controls 8 units (2 Tanks, 2 Healers, 4 DPS), and the battle unfolds automatically once units are placed. The AI agent uses a linear value function with 16 features and learns by playing against itself using TD(0) or TD(λ).
 
-The training framework supports full configurability, logging, and visualization through Unity.
 
 ## Thesis
 
@@ -52,7 +51,4 @@ Tryfon Gkelos
 
 For more details or reproduction of experiments, refer to the thesis document or contact the author.
 
-## License
-
-This code is open-source under the MIT License.
 
